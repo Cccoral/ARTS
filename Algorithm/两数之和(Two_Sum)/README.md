@@ -1,6 +1,6 @@
 # 两数之和(Two Sum)
 ## 简介
-* [实践时间(Week 01)](/ARTS/Weeks/Week_01)
+* [实践时间(Week 01)](/Weeks/Week_01)
 * [原题出处(Leetcode)](https://leetcode-cn.com/problems/two-sum)
 ## 题目描述  
 给定一个整数数组 **nums** 和一个目标值 **target**，请你在该数组中找出和为目标值的那**两个**整数，并返回他们的数组下标。
