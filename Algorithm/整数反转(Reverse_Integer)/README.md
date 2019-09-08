@@ -1,6 +1,6 @@
 # 整数反转(Reverse Integer)
 ## 简介
-* [实践时间(Week 02)](/Weeks/Week_02)
+* [实践时间(Week 02)](/Weeks/Week_02.md)
 * [原题出处(Leetcode)]( https://leetcode-cn.com/problems/reverse-integer)
 ## 题目描述  
 给出一个 32 位的有符号整数，你需要将这个整数中每位上的数字进行反转。
